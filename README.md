@@ -3,8 +3,7 @@ Project written as part of my University course.
 It involved implementing map using BST, and writing parser in C.
 It was required for student to write makefile and bash script used for testing the programme for correctness and memmory leaks.
 
-Full task description in polish:
-Małe zadanie
+## Task description
 
 Na świecie rośnie wiele lasów. W każdym lesie jest wiele drzew. Na każdym drzewie może żyć wiele zwierząt. Każdy las ma unikalną nazwę. Każde drzewo w danym lesie ma unikalną nazwę. Każde zwierzę żyjące na danym drzewie ma unikalną nazwę. Napisz program odwzorowujący ten świat.
 Opis działania programu
