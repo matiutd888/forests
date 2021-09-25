@@ -1,4 +1,4 @@
-# male-zadanie
+# forests
 Project written as part of my University course.
 It involved implementing map using BST, and writing parser in C.
 It was required for student to write makefile and bash script used for testing the programme for correctness and memory leaks.
